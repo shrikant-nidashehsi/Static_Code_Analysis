@@ -1,0 +1,26 @@
+************* Module inventory_system
+inventory_system.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+inventory_system.py:12:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory_system.py:12:0: C0103: Function name "addItem" doesn't conform to snake_case naming style (invalid-name)
+inventory_system.py:26:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory_system.py:26:0: C0103: Function name "removeItem" doesn't conform to snake_case naming style (invalid-name)
+inventory_system.py:41:11: W0718: Catching too general exception Exception (broad-exception-caught)
+inventory_system.py:45:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory_system.py:45:0: C0103: Function name "getQty" doesn't conform to snake_case naming style (invalid-name)
+inventory_system.py:52:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory_system.py:52:0: C0103: Function name "loadData" doesn't conform to snake_case naming style (invalid-name)
+inventory_system.py:53:4: W0603: Using the global statement (global-statement)
+inventory_system.py:55:13: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+inventory_system.py:66:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory_system.py:66:0: C0103: Function name "saveData" doesn't conform to snake_case naming style (invalid-name)
+inventory_system.py:71:11: W0718: Catching too general exception Exception (broad-exception-caught)
+inventory_system.py:68:13: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+inventory_system.py:75:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory_system.py:75:0: C0103: Function name "printData" doesn't conform to snake_case naming style (invalid-name)
+inventory_system.py:84:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory_system.py:84:0: C0103: Function name "checkLowItems" doesn't conform to snake_case naming style (invalid-name)
+inventory_system.py:91:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 7.44/10 (previous run: 4.60/10, +2.84)
+
